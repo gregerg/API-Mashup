@@ -9,13 +9,6 @@ html, body {
         background: url('../images/space.jpg');
 }
 
-h1 {
-	font-size: 60px;
-	margin-top: 50px;
-	font-weight: bold;
-	margin-bottom: 10px;
-}
-
 #map-canvas {
 	height: 600px;
 	width: 70%;
@@ -47,4 +40,12 @@ h1 {
   0%   { box-shadow: 0 0 3px #515151; }
   50% { box-shadow: 0 0 100px #ccc; }
   100% { box-shadow: 0 0 3px #515151; }
+}
+
+
+h1 {
+	font-size: 60px;
+	margin-top: 50px;
+	font-weight: bold;
+	margin-bottom: 10px;
 }
